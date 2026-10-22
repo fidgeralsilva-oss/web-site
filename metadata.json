@@ -1,0 +1,6 @@
+{
+  "name": "Web Academy Conduction Studio",
+  "description": "Comprehensive engineering academy conduction platform for orchestrating live cohort lectures, interactive coding sandboxes, syllabus tracks, and student project assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
